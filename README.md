@@ -71,7 +71,7 @@ Durlauf's research spans many topics in microeconomics and macroeconomics. His m
 **Suggested background:**
 
 * [Attached in Repository: Linear Social Interactions Models.](https://github.com/uchicago-computation-workshop/steven_durlauf/blob/master/bbdjJPE.pdf)
-* [Attached in Repository: Identification of Social Interactions](https://github.com/uchicago-computation-workshop/steven_durlauf/blob/master/bbdiidentificationHSE2011.pdf)
+* [Attached in Repository: Identification of Social Interactions.](https://github.com/uchicago-computation-workshop/steven_durlauf/blob/master/bbdiidentificationHSE2011.pdf)
 
 </p>
 
